@@ -12,7 +12,7 @@ head {
     text-emphasis: center;
     font-size: 40px;
 }
-# left {
+#left {
 float: left;
 margin-top: 30px;
 margin-left: 30px;
@@ -23,7 +23,7 @@ padding: 10px;
 color: #1ebbd7;
 
 }
-# right {
+#right {
     float: right;
 margin-top: 30px;
 margin-left: 30px;
