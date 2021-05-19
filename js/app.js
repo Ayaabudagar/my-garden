@@ -1,5 +1,6 @@
 'use static'
 let flowersArray = [];
+let imgArray = [ 'Alstroemerias.jpeg','Gardenias.jpeg','Orchids.jpeg','Peonies.jpeg','Roses.jpeg','Sunflowers.jpeg','Tulips.jpeg'];
 let table = document.getElementById ('table');
 function Flowers ( name ,category , season ) {
     this.Name = name
