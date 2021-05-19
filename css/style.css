@@ -40,10 +40,15 @@ color: #1ebbd7;
      padding-top: 10px;
      padding-bottom: 10px;
  }
-table {
+table, tr , th {
     border: 1px solid block;
     border-style: double;
 }
+th{
+  display: inline-block;
+}
+
+ 
 form {
     display: inline-block;
 }
